@@ -34,3 +34,7 @@
 
 - **Your missing semester of CS:** https://missing.csail.mit.edu/
 - **Oh shit git:** https://ohshitgit.com/
+
+## Interactive Learning
+- **Basics of Vim:** https://vim-adventures.com/
+- **CSS Flexboxes:** https://flexboxfroggy.com/
