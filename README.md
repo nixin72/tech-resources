@@ -18,6 +18,17 @@
 - [**Big-O**](https://www.bigocheatsheet.com/)
 - [**Big-O**](https://bigocheatsheet.io/)
 
+## Curriculums
+- [**Your missing semester of CS**](https://missing.csail.mit.edu/)
+- [**Open Source Society University**](https://github.com/ossu/computer-science)
+- [**Fullstack webdev**](https://www.freecodecamp.org/learn)
+- [**Also fullstack webdev**](https://fullstackopen.com/en/)
+
+## Interactive Learning
+- [**Basics of Vim**](https://vim-adventures.com/)
+- [**CSS Flexboxes**](https://flexboxfroggy.com/)
+- [**CSS Grixboxes**](https://cssgridgarden.com/)
+
 ## Linux
 - [**Choosing a distribution**](https://distrochooser.de/en/)
 - [**Excellent docs for everything**](https://wiki.archlinux.org/)
@@ -27,18 +38,11 @@
 - [**Wayland**](https://www.fosskers.ca/en/blog/wayland)
 - [**Ricing**](https://github.com/ibrahimbutt/direwolf-arch-rice)
 
+## Tutorials
+- [**Build your own x**](https://github.com/danistefanovic/build-your-own-x)
+
 ## Miscellaneous
 - [**Oh shit git**](https://ohshitgit.com/)
 - [**Multiple files in Vim**](https://stackoverflow.com/questions/16082991/vim-switching-between-files-rapidly-using-vanilla-vim-no-plugins)
-
-## Curriculums
-- [**Your missing semester of CS**](https://missing.csail.mit.edu/)
-- [**Open Source Society University**](https://github.com/ossu/computer-science)
-- [**Fullstack webdev**](https://www.freecodecamp.org/learn)
-- [**Also fullstack webdev**](https://fullstackopen.com/en/)
-
-
-## Interactive Learning
-- [**Basics of Vim**](https://vim-adventures.com/)
-- [**CSS Flexboxes**](https://flexboxfroggy.com/)
-- [**CSS Grixboxes**](https://cssgridgarden.com/)
+- [**Download Udemy courses**](https://github.com/FaisalUmair/udemy-downloader-gui)
+- [**GitHub Student Developer Pack (free shit)**](https://education.github.com/pack)
