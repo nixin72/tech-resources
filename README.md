@@ -50,3 +50,4 @@
 - [**Multiple files in Vim**](https://stackoverflow.com/questions/16082991/vim-switching-between-files-rapidly-using-vanilla-vim-no-plugins)
 - [**Download Udemy courses**](https://github.com/FaisalUmair/udemy-downloader-gui)
 - [**GitHub Student Developer Pack (free shit)**](https://education.github.com/pack)
+- [**Learn X in Y minutes**](https://learnxinyminutes.com/)
