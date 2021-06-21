@@ -11,10 +11,14 @@
 ## Cheatsheets
 - [**Everything**](https://github.com/chubin/cheat.sh)
 - [**Cheatsheet of cheatsheets**](https://devhints.io/)
-- [**Markdown**](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-- [**Flex boxes**]( https://yoksel.github.io/flex-cheatsheet/)
-- [**Clojure**](https://clojure.org/api/cheatsheet)
-- [**Common Lisp**](https://comp-348.github.io/lisp-cheatsheet.html)
+- **Languages**
+  - [**Markdown**](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+  - [**Clojure**](https://clojure.org/api/cheatsheet)
+  - [**Common Lisp**](https://comp-348.github.io/lisp-cheatsheet.html)
+- **Web programming**
+  - [**Flex boxes**]( https://yoksel.github.io/flex-cheatsheet/)
+  - [**HTML**](https://htmlreference.io/)
+  - [**CSS**](https://cssreference.io/)
 - [**Big-O**](https://www.bigocheatsheet.com/)
 - [**Big-O**](https://bigocheatsheet.io/)
 
